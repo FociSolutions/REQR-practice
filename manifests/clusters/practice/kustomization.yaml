@@ -10,3 +10,6 @@ patches:
   - path: replicas.yaml
     target:
       kind: Deployment
+  - path: image.yaml
+    target:
+      kind: Deployment
