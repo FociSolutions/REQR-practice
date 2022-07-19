@@ -6,4 +6,4 @@ metadata:
   name: nginx-hello-deployment
 
 spec:
-  replicas: 2
+  replicas: 3
