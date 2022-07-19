@@ -5,7 +5,3 @@ kind: Deployment
 metadata:
   name: nginx-hello-deployment
 
-images:
-  - name: nginxdemos/hello
-    newName: nginxdemos/hello
-    newTag: latest
