@@ -12,6 +12,6 @@ images:
     newTag: latest
 
 patches:
-  - path: replicas.yaml
+  - path: deployment.yaml
     target:
       kind: Deployment
